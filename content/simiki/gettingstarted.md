@@ -11,6 +11,9 @@ date: 2099-06-02 00:00
 [![Build Status](https://travis-ci.org/tankywoo/simiki.svg)](https://travis-ci.org/tankywoo/simiki)
 [![Coverage Status](https://img.shields.io/coveralls/tankywoo/simiki.svg)](https://coveralls.io/r/tankywoo/simiki)
 
+
+![simiki](/static/img/simiki.png)
+
 Simiki is a simple wiki framework, written in [Python](https://www.python.org/).
 
 * Easy to use. Creating a wiki only needs a few steps
@@ -18,9 +21,6 @@ Simiki is a simple wiki framework, written in [Python](https://www.python.org/).
 * Store source files by category
 * Static HTML output
 * A CLI tool to manage the wiki
-
-
-![png](/static/img/Snip20150212_5.png)
 
 
 Simiki is short for `Simple Wiki` :)
