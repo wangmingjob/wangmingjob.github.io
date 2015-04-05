@@ -19,6 +19,10 @@ Simiki is a simple wiki framework, written in [Python](https://www.python.org/).
 * Static HTML output
 * A CLI tool to manage the wiki
 
+
+![png](/static/img/Snip20150212_5.png)
+
+
 Simiki is short for `Simple Wiki` :)
 
 ## Quick Start ##
