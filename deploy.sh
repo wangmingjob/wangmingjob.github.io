@@ -7,6 +7,6 @@ git push origin source:source
 cd output
 git add .
 git commit -m 'update wiki content'
-git push origin master:master
+git push origin master
 cd ..
 
