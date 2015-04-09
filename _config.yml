@@ -1,8 +1,9 @@
 # Document:
 # http://simiki.org/docs/configuration.html
 
-url: 
-title: 
-keywords: 
-description: 
-author: 
+url: http://wangmingjob.github.io
+title: Wiki
+keywords: wiki, makrdown, simiki, web, android, ios
+description: "wangmingjob's personal wiki, powered by vim and markdown. Focus on Python, C/C++, Linux, Ops-Dev, Gentoo, and so on."
+author: wangmingjob
+theme: simple
