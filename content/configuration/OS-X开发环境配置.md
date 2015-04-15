@@ -9,7 +9,7 @@ date: 2015-04-08 16:57
 xcode-select --install
 ```
 
-###2. brew安装（命令行程序安装工具）
+###2. [brew](http://brew.sh)安装（命令行程序安装工具）
 
 
 ```
@@ -45,16 +45,18 @@ brew install sqlite
 
 ```
 
-###3. brew cask安装（GUI程序安装工具）
+###3. [brew cask](http://caskroom.io)安装（GUI程序安装工具）
 
 ```
-brew tap phinze/homebrew-cask
-brew install brew-cask
+brew install caskroom/cask/brew-cask
 
 brew cask install google-chrome
+brew cask install sourcetree
+brew cask install sublime-text
+brew cask install macdown
 ```
 
-###4. oh my zsh的配置
+###4. [oh my zsh](http://ohmyz.sh/)的配置
 
 ```
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
@@ -72,7 +74,8 @@ wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - 
 https://github.com/wangmingjob/oh-my-zsh/blob/master/templates/zshrc.zsh-template
 ```
 
-查看shell的种类： 
+ 查看shell的种类： 
+
 ```
 cat /etc/shells
 ```
@@ -107,7 +110,5 @@ Github帮助文档 [generating-ssh-keys](https://help.github.com/articles/genera
 
 ###6. Android Studio的安装
 
-[Android Studio官方主页](https://developer.android.com/sdk/index.html#top)
-或者[www.androiddevtools.cn](http://www.androiddevtools.cn/)
-
+[Android Studio官方主页](https://developer.android.com/sdk/index.html#top) 或者[www.androiddevtools.cn](http://www.androiddevtools.cn/)
 
